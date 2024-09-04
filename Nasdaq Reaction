@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nkululeko FX - Nasdaq Reaction Robot</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+background-color:f7f7f7;
+}
+header {
+background-color: #f7f7f7;
+color: #f7f7ff;
+padding: 20px;
+text-align: center;
+}
+main {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 20px;
+}
+section {
+background-color: #999966;
+padding: 20px;
+margin-bottom: 20px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+h1, h2 {
+color: #007bff;
+}
+ul {
+list-style: none;
+padding: 0;
+}
+li {
+margin-bottom: 10px;
+}
+img {
+width: 50%;
+height: auto;
+margin: 20px auto;
+display: block;
+border-radius: 10px;
+}
+.feature-list {
+background-color: #f7f7f7;
+padding: 10px;
+border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Nkululeko FX - Nasdaq Reaction Robot</h1>
+</header>
+<main>
+<section>
+<h2>Introduction</h2>
+<p>Get Automated with our mobile and PC trading robot.
+
+100% hands free trading robot 
+No experience needed 
+ 100% Guarantee 
+Lifetime access any broker is allowed you can also start trading with any amount using the bot. Do not miss the opportunity of changing your life.Introducing the Nasdaq Reaction Robot, a powerful AI forex trading bot designed to help you maximize your profits. With its advanced algorithms and user-friendly interface, this bot is perfect for both beginners and experienced traders.</p>
+
+</section>
+<section class="feature-list">
+<h2>Features</h2>
+<ul>
+<li>90% winning strategy</li>
+<li>Compatible with MT5 and MT4</li>
+<li>PC and mobile (Android, iOS) compatible</li>
+<li>User-friendly interface</li>
+</ul>
+</section>
+<section>
+<h2>Pricing</h2>
+<p>Price: R500 for mobile devices</p>
+<p>R1000 for PC</p>
+<p>To purchase, contact the robot founder:</p>
+</section>
+<section>
+<h2>Contact</h2>
+<p>Phone number: 0833117915
+Whatsapp number: 0648780398</p>
+<p>Email address: <a href="mailto:nnkululeko617@gmail.com">nnkululeko617@gmail.com</a></p>
+</section>
+</main>
+</body>
+</html>
